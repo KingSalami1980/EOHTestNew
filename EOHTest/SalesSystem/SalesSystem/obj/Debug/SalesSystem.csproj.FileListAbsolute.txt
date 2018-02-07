@@ -1,0 +1,9 @@
+C:\Development\Visual Studio 2010\EOHTest\SalesSystem\SalesSystem\bin\SalesSystem.dll
+C:\Development\Visual Studio 2010\EOHTest\SalesSystem\SalesSystem\bin\SalesSystem.pdb
+C:\Development\Visual Studio 2010\EOHTest\SalesSystem\SalesSystem\obj\Debug\SalesSystem.dll
+C:\Development\Visual Studio 2010\EOHTest\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+C:\Development\Visual Studio 2010\EOHTest_OLD\SalesSystem\SalesSystem\bin\SalesSystem.dll
+C:\Development\Visual Studio 2010\EOHTest_OLD\SalesSystem\SalesSystem\bin\SalesSystem.pdb
+C:\Development\Visual Studio 2010\EOHTest_OLD\SalesSystem\SalesSystem\obj\Debug\SalesSystem.dll
+C:\Development\Visual Studio 2010\EOHTest_OLD\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+C:\Development\Visual Studio 2010\EOHTest_OLD\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csprojResolveAssemblyReference.cache
